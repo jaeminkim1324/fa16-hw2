@@ -7,6 +7,6 @@ class Foobar
 
   def bar(a, b)
     # return "#{a['cat']}" + @yee + "#{b['sat']}"
-    return "#{a[:cat]}" + @yee + "#{b[:sat]}"
+    "#{a}" + @yee + "#{b[:sat]}"
   end
 end

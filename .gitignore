@@ -16,4 +16,5 @@
 /tmp
 
 #Ignore .idea files
-.idea/*
+.idea/*.xml
+.idea/*.iml

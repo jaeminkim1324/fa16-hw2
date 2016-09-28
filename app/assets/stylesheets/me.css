@@ -1,0 +1,16 @@
+/* CSS file for the me.html.erb file */
+
+html {
+    background-color: green;
+    font-color: white;
+}
+
+
+.fun-fact {
+    color: red;
+    font-weight: bold;
+}
+.lmao {
+    text-decoration: underline;
+    color: greenyellow;
+}
