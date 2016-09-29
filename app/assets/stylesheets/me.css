@@ -1,8 +1,9 @@
 /* CSS file for the me.html.erb file */
 
-html {
+
+.where {
     background-color: green;
-    font-color: white;
+    color: white;
 }
 
 
@@ -12,5 +13,5 @@ html {
 }
 .lmao {
     text-decoration: underline;
-    color: greenyellow;
+    color: blue;
 }
